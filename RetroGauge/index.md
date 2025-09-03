@@ -1,4 +1,4 @@
-# Privacy Policy for Kombi App
+# Privacy Policy for RetroGauge
 
 **Effective Date:** 02/09/2025
 
