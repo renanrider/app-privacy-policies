@@ -2,7 +2,7 @@
 
 **Effective Date:** 02/09/2025
 
-Kombi we respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application (“App”).
+RetroGauge App respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application (“App”).
 
 ---
 
