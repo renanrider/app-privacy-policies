@@ -1,14 +1,14 @@
-# Privacy Policy for Kombi App
+# Privacy Policy for RetroGauge
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 02/09/2025
 
-Kombi (“we”, “our”, or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application (“App”).
+RetroGauge App respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application (“App”).
 
 ---
 
 ## 1. Information We Collect
 
-Kombi App **does not collect personally identifiable information (PII)**. However, the app may access the following device data for functionality:
+RetroGauge App **does not collect personally identifiable information (PII)**. However, the app may access the following device data for functionality:
 
 - **Device sensors / GPS** – Used only to display real-time speed in the app.
 - **App usage data** – Automatically collected for analytics and performance improvements (optional; can be disabled).
